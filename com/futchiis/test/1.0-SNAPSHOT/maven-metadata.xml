@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.futchiis</groupId>
+  <artifactId>test</artifactId>
+  <versioning>
+    <lastUpdated>20230116161905</lastUpdated>
+    <snapshot>
+      <timestamp>20230116.161905</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20230116.161905-1</value>
+        <updated>20230116161905</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20230116.161905-1</value>
+        <updated>20230116161905</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0-SNAPSHOT</version>
+</metadata>
